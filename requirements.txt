@@ -1,0 +1,9 @@
+rasterio
+geopandas
+xarray
+numpy
+matplotlib
+seaborn
+earthpy
+rioxarray
+scikit-image
