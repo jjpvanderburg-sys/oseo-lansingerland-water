@@ -22,5 +22,27 @@ To build an end-to-end Earth Observation (EO) workflow that:
 - **Data Source:** Sentinel-2 imagery
 - **AOI Format:** GeoJSON polygon (provided in `/data`)
 
+
+## 🔧 Tools & Libraries
+
+- `rasterio`, `geopandas`, `xarray`, `numpy`
+- `matplotlib`, `seaborn`
+- `earthpy`, `rioxarray`, `scikit-image`
+- Optional: `openEO`, `Google Colab`, `QGIS`
+
+## 📌 Project Status
+
+This is an early-stage demonstrator.  
+The goal is to validate the method on a single AOI before scaling.
+
+## 📝 License
+
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) file for details.
+
+---
+
+Built with 💧, 🌍, and a touch of 🚀 by [OSEO.earth](https://oseo.earth)
+
+
 ## 📁 Repository Structure
 
