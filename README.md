@@ -39,6 +39,25 @@ oseo-lansingerland-water/
 
 ---
 
+## 📌 Project Status
+
+This is an early-stage demonstrator.  
+The goal is to validate the method on a single AOI before scaling to other regions or use cases.  
+All outputs and scripts are exploratory and may change over time.
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more details.
+
+---
+
+Built with 💧, 🌍, and a touch of 🚀 by [OSEO.earth](https://oseo.earth)
+
+---
+
 ## 🔧 Tools & Libraries
 
 This project uses a number of open-source Python packages, including:
@@ -54,4 +73,3 @@ You can install the required packages using:
 
 ```bash
 pip install -r requirements.txt
-
